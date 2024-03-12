@@ -16,7 +16,7 @@ from langchain.chains.llm import LLMChain
 from langchain.chains import RetrievalQA
 
 # Set the OpenAI API key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "INSERT-OPENAI-API-KEY"
 
 class MyHTTPRequestHandler(BaseHTTPRequestHandler):
     def do_POST(self):
