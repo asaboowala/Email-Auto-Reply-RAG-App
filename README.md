@@ -1,1 +1,1 @@
-# nemat-email-auto-reply
+# Email Auto-Reply RAG Bot
