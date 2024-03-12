@@ -1,6 +1,0 @@
-Django==4.2.6
-Jinja2==2.11.3
-langchain==0.1.5
-pdfkit==1.0.0
-torch==1.12.1
-transformers==4.33.1
